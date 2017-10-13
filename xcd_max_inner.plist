@@ -11,19 +11,19 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://192.168.9.7:18001/xcd/public/app/xcd_inner_c0_Release_max.ipa</string>
+                                        <string>http://d.app6.i4.cn/soft/2017/10/13/18/s1507888963549_325553.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.whalesgame.xcd</string>
+                                <string>com.whalesgame.snjyw.i4</string>
                                 <key>bundle-version</key>
                                 <string>1.0.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>锦衣卫</string>
+                                <string>少年锦衣卫</string>
                         </dict>
                 </dict>
         </array>
