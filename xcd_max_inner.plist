@@ -13,6 +13,22 @@
                                         <key>url</key>
                                         <string>http://d.app6.i4.cn/soft/2017/10/13/18/s1507888963549_325553.ipa</string>
                                 </dict>
+                                <dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://res.jyw.xy.com:81/ipa/i4/icon/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://res.jyw.xy.com:81/ipa/i4/icon/icon2.png</string>
+				</dict>
                         </array>
                         <key>metadata</key>
                         <dict>
